@@ -12,8 +12,8 @@ DerivedDataCache
 *-DebugGame.dll
 *.sym
 *.debug
-luka/Binaries/Win64/SurvivalGame.exp
-luka/Binaries/Win64/SurvivalGame.lib
+luka/Binaries/Win64/Luka.exp
+luka/Binaries/Win64/Luka.lib
 luka/Releases
 *.log
 *.target.xml
